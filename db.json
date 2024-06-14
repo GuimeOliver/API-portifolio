@@ -19,27 +19,27 @@
         },
         {
           "name": "Html",
-          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/html.png",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png",
           "experiencia": ""
         },
         {
           "name": "Css",
-          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/css.png",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png",
           "experiencia": ""
         },
         {
           "name": "C#",
-          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/csharp.png",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png",
           "experiencia": ""
         },
         {
           "name": "php",
-          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/php.png",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/php.png",
           "experiencia": ""
         },
         {
           "name": "MySql",
-          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/mysql.png",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png",
           "experiencia": ""
         }
       ],
