@@ -8,33 +8,38 @@
     "skills": {
       "hardSkills": [
         {
-          "name": "javaScript",
-          "logo": "https://www.figma.com/design/g6zA6klLrCWZAp76tzoVJZ/Portfolio---EDUCATION?node-id=856-1308&t=16Y4K7U6qohGvd1C-4",
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png",
           "experiencia": ""
         },
         {
-          "name": "Java",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png",
+          "name": "Node",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png",
           "experiencia": ""
         },
         {
-          "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png",
+          "name": "Html",
+          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/html.png",
           "experiencia": ""
         },
         {
-          "name": "React",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png",
+          "name": "Css",
+          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/css.png",
           "experiencia": ""
         },
         {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png",
+          "name": "C#",
+          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/csharp.png",
           "experiencia": ""
         },
         {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png",
+          "name": "php",
+          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/php.png",
+          "experiencia": ""
+        },
+        {
+          "name": "MySql",
+          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/mysql.png",
           "experiencia": ""
         }
       ],
