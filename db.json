@@ -41,6 +41,11 @@
           "name": "MySql",
           "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png",
           "experiencia": ""
+        },
+        {
+          "name": "mongoDb",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png",
+          "experiencia": ""
         }
       ],
       "softSkills": [
